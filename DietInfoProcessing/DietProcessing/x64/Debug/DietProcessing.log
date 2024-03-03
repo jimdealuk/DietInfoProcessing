@@ -4,4 +4,4 @@
   DietProcessing.cpp
   tinyxml2.cpp
   Generating Code...
-  DietProcessing.vcxproj -> C:\Users\james\Documents\DietProcessing\DietInfoProcessing\x64\Debug\DietProcessing.exe
+C:\Users\james\Documents\DietProcessing\DietInfoProcessing\DietProcessing.cpp(1,1): error C1090: PDB API call failed, error code '3': C:\Users\james\Documents\DietProcessing\DietInfoProcessing\DietProcessing\x64\Debug\vc143.pdb
